@@ -1,6 +1,6 @@
 
 ```
-> Hi there 👋 Welcome to my GitHub! I'm Vignesh, a full-stack web developer.
+> Hi there 👋 Welcome to my GitHub! I'm Vignesh, a Front End Web Developer.
 ```
 
  > aboutMe.js
