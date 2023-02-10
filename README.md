@@ -8,9 +8,9 @@
 
 ```javascript
 const Vignesh = {
-    Pronouns: He / Him
-    Code: [ HTML, CSS, Javascript, ReactJs, C++ ]
-    AskMeAbout: [Front-End, Tech, Design, Travel ]
+    Pronouns: He / Him ,
+    Code: [ HTML, CSS, Javascript, ReactJs, C++ ],
+    AskMeAbout: [Front-End, Tech, Design, Travel ],
     Technologies: {
         frontEnd: [Html, Css, JavaScript,  ReactJs, TAilwind CSS, Bootstrap ]
 };
@@ -67,7 +67,7 @@ const Vignesh = {
 
 ### &nbsp;
 -------------------------
-<img align="left" src="https://media.licdn.com/dms/image/C5603AQE9bzPSJz77fw/profile-displayphoto-shrink_800_800/0/1658337651980?e=1680134400&v=beta&t=4ZKQe8yJJCMWSN87bTnITmDxbDGQGpeuDnpM_z5iyp4" alt="lalit1211_ (DP)" width="280" style="border-radius: 10px" /> 
+<img align="left" src="[https://media.licdn.com/dms/image/C5603AQE9bzPSJz77fw/profile-displayphoto-shrink_800_800/0/1658337651980?e=1680134400&v=beta&t=4ZKQe8yJJCMWSN87bTnITmDxbDGQGpeuDnpM_z5iyp4](https://avatars.githubusercontent.com/u/108517094?v=4)" alt="Vignesh Photo" width="280" style="border-radius: 10px" /> 
 
 ```
 webdev-vignesh
