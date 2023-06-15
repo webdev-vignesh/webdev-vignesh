@@ -10,9 +10,12 @@
 const Vignesh = {
     Pronouns: He / Him ,
     Code: [ HTML, CSS, Javascript, ReactJs, C++ ],
-    AskMeAbout: [Front-End, Tech, Design, Travel ],
+    AskMeAbout: [Web Development, Blockchain, Travel ],
     Technologies: {
-        frontEnd: [Html, Css, JavaScript,  ReactJs, TAilwind CSS, Bootstrap ]
+        FrontEnd: [Html, Css, JavaScript,  ReactJs, Tailwind CSS, Bootstrap ],
+        BackEnd: [NodeJS, ExpressJS],
+        Database: [MongoDB, Supabase, MySQL]
+     }
 };
 ```
 
@@ -28,12 +31,7 @@ const Vignesh = {
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-<br />
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-<br />
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
  
  &nbsp; 
@@ -72,13 +70,13 @@ const Vignesh = {
 ```
 webdev-vignesh
 -------------------------
-OS: Window
+OS: Windows
 Pronouns: He/Him
 Location: Chennai, TN, India
-Frameworks: React
-Languages: JavaScript, HTML, CSS
-Learning: Backend Development
-Hobbies: Travel, Music
+Frameworks: NextJs, ExpressJS
+Languages: JavaScript, Solidity
+Learning: Blockchain
+Hobbies: Travel, Books
 ```
 
 
