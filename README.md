@@ -9,10 +9,9 @@
 ```javascript
 const Vignesh = {
     Pronouns: He / Him ,
-    Code: [ HTML, CSS, Javascript, ReactJs, C++ ],
     AskMeAbout: [Web Development, Blockchain, Travel ],
     Technologies: {
-        FrontEnd: [Html, Css, JavaScript,  ReactJs, Tailwind CSS, Bootstrap ],
+        FrontEnd: [HTML, CSS, JavaScript,  ReactJS, NextJS, Tailwind CSS, Bootstrap ],
         BackEnd: [NodeJS, ExpressJS],
         Database: [MongoDB, Supabase, MySQL]
      }
@@ -84,22 +83,16 @@ webdev-vignesh
 OS: Windows
 Pronouns: He/Him
 Location: Chennai, TN, India
-Frameworks: NextJs, ExpressJS
-Languages: JavaScript, Solidity
-Learning: Blockchain
+Frameworks: NextJS, ExpressJS, Hardhat, Foundry
+Languages: JavaScript, Solidity, Python
+Learning: Web and Blockchain development
 Hobbies: Travel, Books
 ```
 
 
 
-
-<img width="80%" alt="" src="./" />
-<p align="center">Hello Buddy, You can call me Vicky ×͜×. Usually, I change your ideas into brand.</p>
-
-<br />
-
 <p align="center">
-  <a  href="https://github.com/webdev-vignesh?tab=repositories" target="_blank">Check out my repos 👆</a>
+  <a  href="https://github.com/webdev-vignesh?tab=repositories" target="_blank">Check out my repos 🗃️</a>
 </p>
 
 
