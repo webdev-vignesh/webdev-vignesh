@@ -1,69 +1,43 @@
 
-```
-> Hi there 👋 Welcome to my GitHub!
-> I'm Vignesh Murugan, a Full Stack Web Developer.
-```
--------------------------
+<h1 align="center">Hi 👋, I'm Vignesh Murugan</h1>
 
-> Languages
- 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 💫 About Me:
+<li>Passionate Full Stack Developer skilled in creating responsive, user-friendly web applications.</li>
+<li>1+ year of industry experience in the MERN stack.</li>
+<li>Exploring Web3 technologies to stay on the cutting edge of the industry.</li>
+<li>Diving into Generative AI to enhance my skills and contribute to innovative projects.</li>
 
-> Tech Stack
+<br/>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### 🧑‍💻 Languages:
+<p align="">
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,py,solidity" alt="programming languages" />
+</p>
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+### 📚 Tech Stack & Tools:
+<p align="">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,jest,tailwind,materialui,nodejs,express,mongodb,mysql,postgres,prisma" alt="programming languages" />
+</p>
+<p align="">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,nginx,docker" alt="frameworks" />
+</p>
 <br />
  
-### &nbsp;
--------------------------
-<img align="left" src="https://avatars.githubusercontent.com/u/108517094?v=4" alt="Vignesh Photo" width="280" style="border-radius: 10px" /> 
+### 📊 GitHub Stats:
 
-```
-webdev-vignesh
--------------------------
-OS: Windows
-Pronouns: He/Him
-Location: Chennai, TN, India
-Frameworks: NextJS, ExpressJS, Hardhat, Foundry
-Languages: JavaScript, Solidity, Python
-Learning: Web and Blockchain development
-Hobbies: Travel, Books
-```
+![webdev-vignesh's Stats](https://github-readme-stats.vercel.app/api?username=webdev-vignesh&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
 
+| ![webdev-vignesh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=webdev-vignesh&theme=slateorange&hide_border=true) | ![webdev-vignesh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webdev-vignesh&theme=slateorange&show_icons=true&hide_border=true&layout=compact) |
+| ------------- | ------------- |
+
+### 🌐 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/webdev-vignesh/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Web3Vicky) 
+<a align="center" href="mailto:vigmurug@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=flat-circle&logo=gmail&logoColor=white" />
+</a>
 
 
 <p align="center">
   <a  href="https://github.com/webdev-vignesh?tab=repositories" target="_blank">Check out my repos 🗃️</a>
 </p>
-
-
-
-
-----------------------------------------------------
-<p  align="center">
-    <a href="https://www.linkedin.com/in/vignesh-murugan-339260152/" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
-    </a>&nbsp;
-    <a align="center" href="mailto:vigmurug@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=flat-square&logo=gmail&logoColor=white" />
-    </a>
-</p>
-
