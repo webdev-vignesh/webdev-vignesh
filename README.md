@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 Languages:
 <p align="">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,py,solidity" alt="programming languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,solidity" alt="programming languages" />
 </p>
 
 ### 📚 Tech Stack & Tools:
