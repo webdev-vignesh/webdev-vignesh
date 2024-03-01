@@ -14,10 +14,17 @@
   <img src="https://skillicons.dev/icons?i=js,ts,java,solidity" alt="programming languages" />
 </p>
 
-### 📚 Tech Stack & Tools:
+### 📚 Tech Stack:
 <p align="">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,jest,tailwind,materialui,nodejs,express,mongodb,mysql,postgres,prisma" alt="programming languages" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,express,nodejs,mongodb" alt="programming languages" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=eclipse,spring" alt="programming languages" />
 </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=redux,tailwind,materialui,jest,mysql,postgres,prisma" alt="programming languages" />
+</p>
+
+### ⚒️ Tools:
 <p align="">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,nginx,docker" alt="frameworks" />
 </p>
